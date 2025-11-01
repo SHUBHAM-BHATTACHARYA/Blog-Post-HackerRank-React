@@ -1,0 +1,3 @@
+G:\React Js>npx create-react-app blog-post
+G:\React Js>cd blog-post
+G:\React Js\blog-post>npm start
